@@ -10,7 +10,7 @@
 
 ## Mes repo
 J'ai fait plein de choses sur github mais si ils y en avait à retenir :
-- [wald](https://github.com/chauve-dev/wald) un framework js mvc développer main basé sur express
+- [wald](https://github.com/chauve-dev/wald) un framework js mvc développer et basé sur express
 - [WAPT java app](https://github.com/chauve-dev/WHP-WaptHeavyPanel) Un vieux projet de stage qui est mon tout premier projet complet en java
 - [c5 companion](https://github.com/chauve-dev/c5_companion) développer avec un collègue cette extension vscode assez basique permettait de simplifier le travail sur le cms Concrete5
 - [Pwipper](https://github.com/chauve-dev/pwipper) une copie de twitter baser sur ruby on rails développer durant mes études
