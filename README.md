@@ -5,6 +5,7 @@
 
 ## Mes Technos
 ![Java](https://img.shields.io/badge/Code-Java-blue?style=flat-square&logo=oracle&logoColor=white)
+![C#](https://img.shields.io/badge/Code-Csharp-blue?style=flat-square&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Code-Python-blue?style=flat-square&logo=python&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Code-Javascript-blue?style=flat-square&logo=javascript&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/Code-Nodejs-blue?style=flat-square&logo=node.js&logoColor=white)
